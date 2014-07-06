@@ -41,5 +41,3 @@ end
 SnailRace.configure do |config|
   config.number_of_repeats = 1
 end
-
-
