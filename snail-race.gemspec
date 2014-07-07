@@ -1,9 +1,9 @@
 #encoding: utf-8
 Gem::Specification.new do |s|
   s.name        = 'snail-race'
-  s.version     = '0.0.0'
+  s.version     = '0.1.0'
   s.date        = '2010-07-06'
-  s.summary     = "A ridiculously way to compare the execution times of a suite of blocks."
+  s.summary     = "A ridiculously easy way to compare the execution times of a suite of Ruby blocks."
   s.authors     = ["Guillaume Troppée"]
   s.email       = 'gtroppee@gmail.com'
   s.files       = Dir["README.md","Gemfile", "spec/*", "lib/**/*"]
